@@ -131,8 +131,8 @@ http://npr-ice.streamguys1.com/live.mp3
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1,BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1,ABC Radio
-https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/masterhq.m3u
+#EXTINF:-1,NER
+https://cast.ner.gov.tw/1
 #EXTINF:-1,LBC News 
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1,LBC UK
