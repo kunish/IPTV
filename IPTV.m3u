@@ -124,13 +124,13 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
 #EXTINF:-1 tvg-id="1987" tvg-logo="http://live.cooltv.top/logo/shwxty.png" group-title="地方",五星体育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1 tvg-id="1991" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="地方",上海外语
-http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1321BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjMgipZ5P2FQL%2BUOjs62ks4Wz%2BD1tfGNvjXogG%2F5BxJTkEkN8QzkBtGW%2FFWBkZGvGbw%3D%3D
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-logo="http://live.cooltv.top/logo/shds.png" group-title="地方",上海都市
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="http://live.cooltv.top/logo/shds.png" group-title="地方",上海教育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
 #EXTINF:-1 tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="http://live.cooltv.top/logo/shds.png" group-title="地方",上海新闻
-http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="http://live.cooltv.top/logo/shds.png" group-title="地方",都市剧场
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="http://live.cooltv.top/logo/shds.png" group-title="地方",生活时尚
