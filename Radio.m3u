@@ -123,8 +123,9 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
-#EXTINF:-1,CNA938
-http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
+#EXTINF:-1,YES FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC
+.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1,Al Jazeera
@@ -139,22 +140,6 @@ https://icecast.thisisdax.com/LBCNewsUKMP3
 https://ice-sov.musicradio.com/LBCUKMP3
 #EXTINF:-1,Times Radio
 http://timesradio.wireless.radio/stream
-#EXTINF:-1,BBC Radio 1
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
-#EXTINF:-1,BBC 1 Xtra
-http://stream.live.vc.bbcmedia.co.uk/bbc_1xtra
-#EXTINF:-1,BBC Radio 2
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_two
-#EXTINF:-1,BBC Radio 3
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
-#EXTINF:-1,BBC Radio 4
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
-#EXTINF:-1,BBC 4 Xtra
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
-#EXTINF:-1,BBC Radio 5
-http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
-#EXTINF:-1,BBC Radio 6
-http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 #EXTINF:-1,News Radio UK
 http://playoutonestreaming.com:8008/stream 
 #EXTINF:-1,MSNBC Radio
