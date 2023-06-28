@@ -113,8 +113,8 @@ http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
 #EXTINF:-1,Kiss FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
-#EXTINF:-1,Class FM
-http://22393.live.streamtheworld.com/CLASS95.mp3
+#EXTINF:-1,Classic FM
+http://ice-sov.musicradio.com/ClassicFM
 #EXTINF:-1,Money FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1,Power FM
