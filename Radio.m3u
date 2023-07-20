@@ -143,3 +143,23 @@ http://timesradio.wireless.radio/stream
 http://playoutonestreaming.com:8008/stream 
 #EXTINF:-1,MSNBC Radio
 http://peridot.streamguys.com:7850/live
+#EXTINF:-1,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 1 Dance
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 1 Relax
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+#EXTINF:-1,BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
